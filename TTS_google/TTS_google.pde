@@ -1,3 +1,8 @@
+// This code works on Processing 4 and the new API v2 from Google
+// 
+// Code based on the work of https://amnonp5.wordpress.com/2011/11/26/text-to-speech/
+// Adapted by Rudi for Interaction Lab at NYU Shanghai -  12/Dec/2022
+
 import ddf.minim.*;
 AudioPlayer player;
 Minim minim;
