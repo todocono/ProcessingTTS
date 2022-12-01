@@ -3,12 +3,13 @@
 // Code based on the work of https://amnonp5.wordpress.com/2011/11/26/text-to-speech/
 // Adapted by Rudi for Interaction Lab at NYU Shanghai -  12/Dec/2022
 
-import ddf.minim.*;
-AudioPlayer player;
-Minim minim;
+
 import java.net.*;
 import java.io.*;
+import ddf.minim.*;
 
+Minim minim;
+AudioPlayer player;
 
 String s = "Type here";
 
